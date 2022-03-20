@@ -14,7 +14,15 @@
   "author": "Brian Almada <brianalexisalmada84@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Almada/cursoNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brian-Almada/cursoNPM/issues"
+  },
+  "homepage": "https://github.com/Brian-Almada/cursoNPM#readme"
 }
